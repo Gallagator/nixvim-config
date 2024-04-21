@@ -2,8 +2,8 @@
   plugins.telescope = {
     enable = true;
     keymaps = {
-      "<leader>fg" = "live_grep";
-      "<C-p>" = {
+      "<space>/" = "live_grep";
+      "<space>f" = {
         action = "git_files";
         desc = "Telescope Git Files";
       };
