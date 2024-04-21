@@ -10,6 +10,7 @@
       kotlin-language-server.enable = true;
       nixd.enable = true;
       ruff-lsp.enable = true;
+      metals.enable = true;
     };
     keymaps.lspBuf = {
       "gd" = "definition";
