@@ -26,7 +26,7 @@
     # Default mode is "" which means normal-visual-op
     {
       # Toggle NvimTree
-      key = "<C-n>";
+      key = "<space>e";
       action = "<CMD>NvimTreeToggle<CR>";
     }
     {
